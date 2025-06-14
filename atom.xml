@@ -6,7 +6,7 @@
   <link href="https://gwtvnews.github.io/atom.xml" rel="self"/>
   
   <link href="https://gwtvnews.github.io/"/>
-  <updated>2025-06-14T09:35:28.214Z</updated>
+  <updated>2025-06-14T09:42:19.661Z</updated>
   <id>https://gwtvnews.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://gwtvnews.github.io/2025/06/20/example/"/>
     <id>https://gwtvnews.github.io/2025/06/20/example/</id>
     <published>2025-06-20T04:00:00.000Z</published>
-    <updated>2025-06-14T09:35:28.214Z</updated>
+    <updated>2025-06-14T09:42:19.661Z</updated>
     
-    <content type="html"><![CDATA[<p>GWTV Today 测试</p><span id="more"></span><video src="https://static.bcmcdn.com/coco/player/unstable/HJtu5hBbll.video/mp4?hash=lnyDQiibD4dvVK75-eGj682NbjxO" controls="controls" autoplay="autoplay" width="500" height="300"></video>]]></content>
+    <content type="html"><![CDATA[<p>GWTV Today 测试</p><span id="more"></span><video src="https://static.bcmcdn.com/coco/player/unstable/HJtu5hBbll.video/mp4?hash=lnyDQiibD4dvVK75-eGj682NbjxO" controls="controls" autoplay="autoplay" width="500" height="400"></video>]]></content>
     
     
     <summary type="html">&lt;p&gt;GWTV Today 测试&lt;/p&gt;</summary>
